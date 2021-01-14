@@ -1,2 +1,2 @@
-# ObserverPatern-Traversy
+# ObserverPattern-Traversy
  Practice project for Observer pattern
